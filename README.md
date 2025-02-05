@@ -27,7 +27,7 @@ This course is designed to provide a **comprehensive understanding of networking
 
 **Index:**
 
-1. [[1. Introduction to Networking]]
+1. [[1. Networking Concepts]]
     - 1.0 – Networking
 2. [[2. Networking Concepts]]
     - 1.1 – The OSI Model
