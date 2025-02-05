@@ -29,7 +29,6 @@ This course is designed to provide a **comprehensive understanding of networking
 
 1. [[1. Networking Concepts]]
     - 1.0 – Networking
-2. [[2. Networking Concepts]]
     - 1.1 – The OSI Model
     - 1.2 – Network Appliances and Applications
     - 1.3 – The Cloud
@@ -38,22 +37,22 @@ This course is designed to provide a **comprehensive understanding of networking
     - 1.6 – Network Topologies
     - 1.7 – IPv4 Addressing
     - 1.8 – Network Environments
-3. [[3. Network Implementation]]
+2. [[2. Network Implementation]]
     - 2.1 – Routing Technologies
     - 2.2 – Switching Technologies
     - 2.3 – Wireless Devices
     - 2.4 – Physical Installations
-4. [[4. Network Operations]]
+3. [[3. Network Operations]]
     - 3.1 – Processes and Procedures
     - 3.2 – Network Monitoring
     - 3.3 – Disaster Recovery
     - 3.4 – IP Services
     - 3.5 – Network Access
-5. [[5. Network Security]]
+4. [[4. Network Security]]
     - 4.1 – Network Security Concepts
     - 4.2 – Attack Types
     - 4.3 – Network Security Features
-6. [[6. Network Troubleshooting]]
+5. [[5. Network Troubleshooting]]
     - 5.1 – Troubleshooting Methodology
     - 5.2 – Physical Issues
     - 5.3 – Troubleshooting Network Services
